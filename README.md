@@ -1,9 +1,13 @@
 # 🐳 Aplicação Desaparecidos
 
+## Incrição
+- Número: 10234
+- Nome: CHRISTIAN HERBER DOS SANTOS
+
+
 ## ✅ Requisitos
 
 - Docker instalado e em execução
-- Docker Compose instalado
 
 ## 🚀 Como rodar a aplicação
 
