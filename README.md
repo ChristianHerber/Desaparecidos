@@ -14,5 +14,6 @@
 ```bash
 docker build -t app_desaparecidos .
 docker-compose up -d
+```
 
 4. Acesse a aplicação em: http://localhost:3000
