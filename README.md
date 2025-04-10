@@ -1,6 +1,6 @@
 # 🐳 Aplicação Desaparecidos
 
-## Incrição
+## 📝 Inscrição
 - Número: 10234
 - Nome: CHRISTIAN HERBER DOS SANTOS
 
